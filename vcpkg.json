@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "glad",
+    "glm",
+    "stb",
+    "assimp"
+  ],
+  "builtin-baseline": "65e7b0190e22fb3981e0afd265080b2e3e1912f2"
+}
